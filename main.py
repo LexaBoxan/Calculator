@@ -1,5 +1,5 @@
 def main():
-    print(plus(5,10))
+    print(plus(6,7))
 def plus(a, b):
     return a + b
 def multiplication(a, b):
